@@ -8,9 +8,9 @@ I am a 13-year-old game developer who loves building cool projects.
 
 
 ## 🛠️ My Tools
-![Unity](https://shields.io)
-![C#](https://shields.io)
-![Rider](https://shields.io)
+* 🎮 **Game Engine:** [Unity](https://unity.com)
+* 💻 **Language:** [C#](https://microsoft.com)
+* 🚀 **IDE:** [JetBrains Rider](https://jetbrains.com) (Student License)
 
 
 ## 🎮 Check Out My Profile & Games!
