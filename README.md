@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb55646f-ff8e-4483-b0f2-c2e8dc72a64c" width="400" alt="Solaris Interactive Logo">
+</p>
 # Hi there! I'm Shreyan 👋
 
+
 I am a 13-year-old game developer who loves building cool projects. 
+
 
 ## 🛠️ My Tools
 * **Game Engine:** Unity
