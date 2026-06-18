@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm Shreyan 👋
 
-<!--
-**Shreyan-Meesala/Shreyan-Meesala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 13-year-old game developer who loves building cool projects. 
 
-Here are some ideas to get you started:
+## 🛠️ My Tools
+* **Game Engine:** Unity
+* **Language:** C#
+* **IDE** Jetbrains Rider(Student license)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Check Out My Profile & Games!
+Here are my profiles:
+itch.io : https://itch.io/profile/shreyan0725
+
+You can play my latest game builds on my Itch.io page!
+👉 https://shreyan0725.itch.io/battle-of-science
