@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="" width="400" alt="Solaris Interactive Logo">
-</p>
 # Hi there! I'm Shreyan 👋
 
 
