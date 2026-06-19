@@ -16,3 +16,7 @@ Here are my profiles:
 
 You can play my latest game builds on my Itch.io page!
 👉[Play Battle of Science now!](https://shreyan0725.itch.io/battle-of-science)
+
+What I'm Working On:
+👉 2D metroidvania-platformer game
+👉 Soon to be the founder of Sylvan Interactive, an upcoming indie studio
