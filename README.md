@@ -28,4 +28,5 @@ You can play my latest game builds on my Itch.io page!
 
 What I'm Working On:   
 <br>👉 2D metroidvania-platformer game  
-<br>👉 Soon to be the founder of Sylvan Interactive, an upcoming indie studio
+
+<p align = "center"> Thanks for checking out my profile!
