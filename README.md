@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="" alt="https://github.com/user-attachments/assets/93af6f34-8813-4747-b151-14190ea37b50" width="550">
+</p>
+
+
+
+
 # Hi there! I'm Shreyan 👋
 
 
