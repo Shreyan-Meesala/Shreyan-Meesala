@@ -5,10 +5,10 @@
 
 
 
-# Hi there! I'm Shreyan 👋
+<p align="center"> # Hi there! I'm Shreyan 👋
 
 
-I am a 13-year-old game developer who loves building cool projects. 
+<p align="center"> I'm a 13-year-old game developer who loves building cool projects! 
 
 
 ## 🛠️ My Tools
