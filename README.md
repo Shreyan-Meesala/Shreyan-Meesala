@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="https://github.com/user-attachments/assets/93af6f34-8813-4747-b151-14190ea37b50" width="550">
+  <img src="https://github.com/user-attachments/assets/93af6f34-8813-4747-b151-14190ea37b50" alt="Sylvan Interactive Logo" width="550">
 </p>
 
 
