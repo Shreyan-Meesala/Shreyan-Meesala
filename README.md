@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ea6bc845-72a5-4157-983e-f9185d6648b2" alt="Sylvan Interactive Word Logo" width="550">
+  <img src="https://github.com/user-attachments/assets/dc45660d-f093-44ee-b5df-ff342a0b55eb" alt="Sylvan Interactive Word Logo" width="550">
 </p>
+
 
 
 
