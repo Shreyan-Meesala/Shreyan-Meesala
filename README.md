@@ -27,6 +27,6 @@ You can play my latest game builds on my Itch.io page!
 👉[Play Battle of Science now!](https://shreyan0725.itch.io/battle-of-science)
 
 What I'm Working On:   
-<br>👉 2D pixel-art RPG   
+<br>👉 3D Open-world RPG   
 
 <p align = "center"> Thanks for checking out my profile!
