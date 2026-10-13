@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/01f56ea9-b990-4581-9da2-50ce5a76e867" alt="Sylvan Interactive Word Logo" width="550">
-</p>
-
-
-
-
-
-
 <p align="center"> # Hi there! I'm Shreyan! 👋
 
 
