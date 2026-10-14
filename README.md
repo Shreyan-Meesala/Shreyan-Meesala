@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100" height="100" alt="Untitled Design (1)" src="https://github.com/user-attachments/assets/a21363d4-4cf8-46ca-b2ff-8adeb461e6cf" />
+<img width="1414" height="2000" alt="ASTRONUGGET (2)" src="https://github.com/user-attachments/assets/4046ff67-a47c-4ef5-b63d-7ef447aa950c" />
 
 </p>
 
