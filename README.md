@@ -1,9 +1,3 @@
-<p align="center">
-<img width="1414" height="2000" alt="ASTRONUGGET (2)" src="https://github.com/user-attachments/assets/4046ff67-a47c-4ef5-b63d-7ef447aa950c" />
-
-</p>
-
-
 <p align="center"> # Hi there! I'm Shreyan! 👋
 
 
